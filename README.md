@@ -9,3 +9,6 @@ IC Assignment 1: Chapter 1 of Ecology Handbook
 
 IC_assignment 2: chapter 2 of ecology handbook
 -making an exponential equation
+-so many technical difficulties
+just coppied enya
+did matplotlib adn plotting on x and y axis
