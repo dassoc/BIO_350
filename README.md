@@ -12,3 +12,8 @@ IC_assignment 2: chapter 2 of ecology handbook
 -so many technical difficulties
 just coppied enya
 did matplotlib adn plotting on x and y axis
+
+IC-in class
+did a log on the previous assignmetn 
+then did if for function
+messed aroudn with the graph of that
