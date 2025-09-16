@@ -26,3 +26,8 @@ then we had to acount for intraspecific competition with the shading
 changed it back to an exponential model because the logistic wasnt workign and teh handbook said they were doing exponential, also just made dN_0 = 0.4 * N_0
 graphed that but didnt feellike making it look nicer by limiting teh days
 then to find how long it takes to even out and the total plants I had teh chatbot write the code
+
+IC_Inclassexample2 
+imported Population_Data.csv and created a graph from it
+used copilot inline editor to enhance the grpah: added points, changed line color, grid lines
+found the carrying capacity then added it as a dotted line on the graph
