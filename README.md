@@ -31,3 +31,10 @@ IC_Inclassexample2
 imported Population_Data.csv and created a graph from it
 used copilot inline editor to enhance the grpah: added points, changed line color, grid lines
 found the carrying capacity then added it as a dotted line on the graph
+
+IC_assignment4
+created a Lotka-volterra competition model for interspecific competion between species N graphed in IC_assignment3 and a new species M, which is threatend.
+changed the code around to add for species M then used copilot to edit my graph code.
+the plot shows How N keeps growing and M declines. made a description for the grpah with that
+found what day M population reaches 0, which is when it is less than one because you cant have a percentage of a plant.
+then added in teh competition coefficient in a markdown box to work of off next week. ansered question 3: at what point does alpha need to be for both to coexist, answer in handbook.
