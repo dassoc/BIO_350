@@ -38,3 +38,10 @@ changed the code around to add for species M then used copilot to edit my graph 
 the plot shows How N keeps growing and M declines. made a description for the grpah with that
 found what day M population reaches 0, which is when it is less than one because you cant have a percentage of a plant.
 then added in teh competition coefficient in a markdown box to work of off next week. ansered question 3: at what point does alpha need to be for both to coexist, answer in handbook.
+
+IC_inclassexample3
+first we took teh graph from assignemtn4 and messed around to see if we could keep the threatend species, didnt matter because of carrying capacity.
+
+after this incorborated alpha adn beta into equation.
+messed around with what they equal to change graph.
+learned how we could simplify the graph with x* adn y*, didnt actually incorporate that in though.
