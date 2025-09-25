@@ -45,3 +45,10 @@ first we took teh graph from assignemtn4 and messed around to see if we could ke
 after this incorborated alpha adn beta into equation.
 messed around with what they equal to change graph.
 learned how we could simplify the graph with x* adn y*, didnt actually incorporate that in though.
+
+IC_assignment5
+-created an SIR model for a rabies outreak in a fox population
+-this went terribly teh AI wasnt writing it correctly. I tried to manually put in the equations which worked but then they werent being saved correctly
+-figured out that they needed to be saved as next values and not into the current so itdidntjust return the original number over and over
+-plot isnt fancy becasue I didnt have time to mess around with it.
+-used the plot to answer some questions on beta and d changes
