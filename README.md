@@ -52,3 +52,8 @@ IC_assignment5
 -figured out that they needed to be saved as next values and not into the current so itdidntjust return the original number over and over
 -plot isnt fancy becasue I didnt have time to mess around with it.
 -used the plot to answer some questions on beta and d changes
+
+- Downloaded an R.code file and imported it into VScode
+- Used Copilot to troubleshoot problems downoading the scipy package
+- Then copy and pasted the sections of data in and translated it to python using Copilot
+- This created the multiple graphs above. The first set of plots are the genral ones for small, medium, and large populations and the rest integrate different variables in.
