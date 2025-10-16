@@ -57,3 +57,10 @@ IC_assignment5
 - Used Copilot to troubleshoot problems downoading the scipy package
 - Then copy and pasted the sections of data in and translated it to python using Copilot
 - This created the multiple graphs above. The first set of plots are the genral ones for small, medium, and large populations and the rest integrate different variables in.
+
+IC_assignment6
+-ccreated an age structured model for a beetle popultation wiht and without traps
+-first established the values of the matrices of F, S, and T beetle ages and inital populations.
+-used a Leslie matrix on them and converted the output values to a numpy array to make them easier to work with.
+-then plotted the to graphs to visualize growth differences.
+-without traps= exponential growth. with traps= decline towards extinction.
