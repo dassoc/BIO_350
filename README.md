@@ -64,3 +64,11 @@ IC_assignment6
 -used a Leslie matrix on them and converted the output values to a numpy array to make them easier to work with.
 -then plotted the to graphs to visualize growth differences.
 -without traps= exponential growth. with traps= decline towards extinction.
+
+IC_Inclassexample6
+- made a stage strucutred model of sea turtles which are a long lived species with high juvinile mortality.
+- used chatgpt to cme up with example population numbers and G,P, and F.
+- created a Lefkovitch matrix, ran the simulation, adn plotted it.
+- also included the proportions of each stage in a seperate graph.
+- calculated totals of each stage aswell.
+- answered class questions in markdown below graphs
