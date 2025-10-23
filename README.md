@@ -92,3 +92,12 @@ Modeling Concepts
 -Non-linear Regression: Non-linear regression fits models where the relationship between variables is not a straight line. It can describe complex biological processes, such as enzyme kinetics or population growth. This method requires iterative fitting and is more computationally intensive than linear regression. It provides better accuracy for naturally curved or exponential patterns.
 -Random Forests: Random forests are machine learning algorithms that build multiple decision trees and combine their results for improved accuracy. They handle large, complex datasets and can identify which variables are most important for prediction. Random forests reduce overfitting and perform well on both classification and regression tasks. They are widely used in genomics, ecology, and environmental modeling.
 -Cross-Validation and Accuracy of Models: Cross-validation is a technique for testing how well a statistical or machine learning model generalizes to new data. It involves dividing data into training and testing sets to evaluate performance. This process helps detect overfitting and ensures model reliability. Accuracy metrics from cross-validation indicate how trustworthy the model’s predictions are.
+
+IC_assingment7
+- first made a model of a tree population in a park (Beech, maple, and other trees), however the totoal population remeained constant at 100 trees.
+- each tree is replaced randomly by a sapling underneath, what will the stabilized population look like after 50 years?
+- created a transtion matrix then plotted it
+- determermined the amount of the 3 tree types
+- for the second part we looked at a pair of populations. butterfly metapopulation: one large plot and one smaller plot. calculating chance that they will both go extinct at 50 years
+- created a matrix using copy and pasted code from first part of the assingment and changed the values, main differnce was it was now a 4x4 matrix. 
+- plotted it to find the probability of extinction, in markdwon below graph.
