@@ -101,3 +101,6 @@ IC_assingment7
 - for the second part we looked at a pair of populations. butterfly metapopulation: one large plot and one smaller plot. calculating chance that they will both go extinct at 50 years
 - created a matrix using copy and pasted code from first part of the assingment and changed the values, main differnce was it was now a 4x4 matrix. 
 - plotted it to find the probability of extinction, in markdwon below graph.
+
+- IC_Inclassexample6
+- just used chatgpt to give normal data for a normal distribution then did a poisson for turtles coming up on a beach as well just for kicks
