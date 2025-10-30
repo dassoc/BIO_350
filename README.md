@@ -104,3 +104,13 @@ IC_assingment7
 
 - IC_Inclassexample6
 - just used chatgpt to give normal data for a normal distribution then did a poisson for turtles coming up on a beach as well just for kicks
+
+- IC_assignment8
+- creating a program/functin that can answer a questin from chapter 7 handbook of Q. ecology
+- pprobabilyt we will find 2 eggs in 1st nest we check?
+- prbabilty team will get 3 nest in a row wiht 1 egg?
+- average number of eggs per nest?
+
+for code
+- be able to adjust the input parameters
+- did it wrong at first and couldnt change parameters, changed it to have inputs at the end so had nests_1 and nests_2
