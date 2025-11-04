@@ -114,3 +114,9 @@ IC_assingment7
 for code
 - be able to adjust the input parameters
 - did it wrong at first and couldnt change parameters, changed it to have inputs at the end so had nests_1 and nests_2
+
+- plot_document_clustering
+- from sciKit did the Kclusters activity
+- had to make a new env for this then just ran through it
+- created plot at end
+- use something like this for final project
