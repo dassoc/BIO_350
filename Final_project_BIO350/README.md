@@ -15,3 +15,8 @@
         Objective: Predict fish counts per transect/grid cell based on environmental variables and MPA/fished status. model potential hotspots of abundance based on location if im able to.
         Input: Depth, slope, wave power, BPI, turf algae (environmental), MPA/fished (management), latitude/longitude (spatial)
         Output: Predicted counts per site and estimates of predictor effects + spatial patterns
+
+- 11/11
+- did some simple plotting to visalize the data: plotting_data
+- have input of abudance,environmental variables, and management status to work with
+- will pick a scikit learn package next time and clean the data
