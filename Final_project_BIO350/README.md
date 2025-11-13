@@ -20,3 +20,13 @@
 - did some simple plotting to visalize the data: plotting_data
 - have input of abudance,environmental variables, and management status to work with
 - will pick a scikit learn package next time and clean the data
+
+- 11/13
+    - Have data set selected: species_distribution_data.csv
+    - Question: how do environmental variables and MPA/fished status influence fish abundance?
+    - Model: Poisson regression to model fish abundance
+    - set up model framework today
+        - determine: x(dataset) -> description (abundance of fish based on factors)
+    - train-test data split
+    - run model example (MLP regressor/classifier)
+        - see y predicted vs. y actual

@@ -120,3 +120,6 @@ for code
 - had to make a new env for this then just ran through it
 - created plot at end
 - use something like this for final project
+
+- week of 11/10 worked on final project
+- IC_ScikitLearn_Inclassexample7: practiced data cleaning and train-test on nitrate data
