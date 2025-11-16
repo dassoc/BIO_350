@@ -30,3 +30,4 @@
     - train-test data split
     - run model example (MLP regressor/classifier): will do this monday so ready to do the Poisson on in class.
         - see y predicted vs. y actual
+    - hypothesis: abundance will increase within MPAs and with more cover, as well as a lower bathymetry.
