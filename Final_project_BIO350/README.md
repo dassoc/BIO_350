@@ -24,12 +24,14 @@
 - 11/13
     - Have data set selected: species_distribution_data.csv
     - Question: how do environmental variables and MPA/fished status influence fish abundance?
-    - Model: Poisson regression to model fish abundance
+    - Model: Poisson regression to model fish abundance. In scikit, it's under GLMs and the process is in Poisson regression and non-normal loss.
     - set up model framework today
-        - determine: x(dataset) -> description (abundance of fish based on factors)
+        - determine: x(abundace, management, environmental: CCA_cover, coral_cover, macroalgae_cover, turf_cover, bathymetry) -> description (abundance of fish based on factors)
     - train-test data split
-    - run model example (MLP regressor/classifier)
+    - run model example (MLP regressor/classifier): will do this monday so ready to do the Poisson on in class.
         - see y predicted vs. y actual
+    - hypothesis: abundance will increase within MPAs and with more cover, as well as a lower bathymetry.
+
 - 11/17
     - ran a clean and train/test data split on species_distribution_data.csv the smae as the practice on teh nitrate file we did 11/13. 
     - not sure what to infer from teh heatmap it made but teh data seems to work well so will do Poisson Regression next class.
