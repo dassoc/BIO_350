@@ -30,3 +30,6 @@
     - train-test data split
     - run model example (MLP regressor/classifier)
         - see y predicted vs. y actual
+- 11/17
+    - ran a clean and train/test data split on species_distribution_data.csv the smae as the practice on teh nitrate file we did 11/13. 
+    - not sure what to infer from teh heatmap it made but teh data seems to work well so will do Poisson Regression next class.
