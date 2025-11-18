@@ -35,3 +35,31 @@
 - 11/17
     - ran a clean and train/test data split on species_distribution_data.csv the smae as the practice on teh nitrate file we did 11/13. 
     - not sure what to infer from teh heatmap it made but teh data seems to work well so will do Poisson Regression next class.
+
+- goals for week of 11/17
+    - What was the original paper about?
+    - Did it model anything, or are you just using their data?
+    - What is your question, or idea?
+    - What are you specifically trying to model?
+        - Why? How will it answer your question/idea?
+    - What is your input data type, or structure?
+    - What is your output data type?
+    - What type of model have you decided to use to model your data?
+        - I'm using a Poisson Regression
+    - Practical:
+        - Have your data loaded
+            - done
+        - Plot initial data visualization
+            - done
+        - Explain your data type and input/output plans for your model
+            - done
+        - Create a train/test data split
+            - done
+        - Explain your model
+            - not a clue
+        - Run a test using default or standard model parameters
+            - done
+        - Later this week and over the next 2 weeks we will discuss fine tuning model parameters to generate the most accurate model
+            - need to figure out graphs, copilot made super complicated ones, talk to denni abt it
+        - Now that you've run the test, what are your results and what do they mean?
+            - no idea

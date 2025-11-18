@@ -123,3 +123,4 @@ for code
 
 - week of 11/10 worked on final project
 - IC_ScikitLearn_Inclassexample7: practiced data cleaning and train-test on nitrate data
+- did the same of final project data set that we did on nitrate data to practice
