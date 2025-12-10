@@ -83,7 +83,7 @@ Write a discussion on the final results after you've decided you've finished you
 
 **Data presentation on Github**
 - Goals for 12/1
-This week should mostly be you writing up and making all of your analysis look nice on Github. Don't just blindly post AI generated code in a .ipynb file, only include the important steps and describe each step along the way with figures when needed. My final file is the **Random_forest_model_FP.ipynb**
+This week should mostly be you writing up and making all of your analysis look nice on Github. Don't just blindly post AI generated code in a .ipynb file, only include the important steps and describe each step along the way with figures when needed. My final file is the **Random_forest_model_FP.ipynb** I'm sorry I can't do the comments on my laptop, it keeps messing up my code, and it's due tonight. There are some on there that I added during the coding earlier, but I can't make it super specific.
 Finally, write a page reflection on the project at the bottom of your Final Project file
 How did your final project go? What results what you had hoped? How do you feel about being able to run a machine learning method? Is it simpler or harder than you thought? Could you incorporate this into other work? What worked, what didn't? What was frustrating or rewarding?
 - This project helped me see both the strengths and the limits of using machine learning in ecology. I expected the environmental variables and protection status to be good predictors of fish abundance, but the model didn’t perform well and had negative R² values and high error. That was frustrating at first, but it also showed me how complex ecological systems really are and how many factors can influence abundance that aren’t always easy to measure.
